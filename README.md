@@ -183,3 +183,8 @@ Locize provides machine translation suggestions(Batch machine translations are n
 1.  **Enable Machine Translation**: In your project's settings on the Locize website, go to the "Machine Translation" section and enable a service (e.g., Google Translate, DeepL).
 2.  **Get Suggestions**: Once enabled, when you click on an empty translation field, a suggestion from the machine translation service will appear. You can click it to accept.
 3.  **Batch Translate**: To translate multiple keys at once, select them using the checkboxes. A toolbar will appear at the bottom. Click the "Machine Translate" button to fill in all selected empty fields with machine translations. You can then review and adjust them as needed.
+<img width="1728" height="831" alt="Screenshot 2025-09-26 at 12 55 55 PM" src="https://github.com/user-attachments/assets/297b67e5-ca95-43a8-a04c-29ad9b214b43" />
+
+<img width="1728" height="893" alt="Screenshot 2025-09-26 at 12 56 23 PM" src="https://github.com/user-attachments/assets/2cb8cded-2b5d-44fb-9e67-2ff3a05b6099" />
+
+<img width="1728" height="893" alt="Screenshot 2025-09-26 at 12 57 38 PM" src="https://github.com/user-attachments/assets/e3a346f9-b57b-4258-9a1f-929e69f0020d" />
