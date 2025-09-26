@@ -1,0 +1,10 @@
+{
+  "dashboardTitle": "NBUI LOCIZE Demo",
+  "footerText": "To learn more, <1>visit our documentation</1>.",
+  "itemCount_one": "You have {{count}} item in your cart.",
+  "itemCount_other": "You have {{count}} items in your cart.",
+  "searchButton": "Search",
+  "searchPlaceholder": "Enter here to search",
+  "todayIs": "Today is {{date, longDate}}.",
+  "welcomeMessage": "Welcome to {{content}}!"
+}
