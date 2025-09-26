@@ -29,7 +29,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "locize:upload": "locize sync --path ./public/locales --project-id 736a3009-2dc3-4d8d-8723-e00c86b911ef --api-key fe0b32bb-bb1f-4d92-a572-f1e31222aabd"
+    "locize:upload": "locize sync --path ./public/locales --project-id <locize-project-id> --api-key <locize-api-key>"
   },
   "eslintConfig": {
     "extends": [

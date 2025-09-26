@@ -4,8 +4,8 @@ import LanguageDetector from "i18next-browser-languagedetector";
 import LocizeBackend from 'i18next-locize-backend';
 
 const locizeOptions = {
-  projectId: '736a3009-2dc3-4d8d-8723-e00c86b911ef',
-  apiKey: 'fe0b32bb-bb1f-4d92-a572-f1e31222aabd', // In a real app, use a private key for saveMissing functionality
+  projectId: '<locize-project-id>',
+  apiKey: '<locize-api-key>', // In a real app, use a private key for saveMissing functionality
   referenceLng: 'en',
 };
 
